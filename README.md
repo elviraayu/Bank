@@ -1,11 +1,11 @@
 # Bank
 
-IDENTIAS 
-Nama : Elvira Ayu Sosilia 
-Kelas : XI RPL 3 
-No Abs : 09 
-NIS : 4701/1420.070 
-NAMA SEKOLAH : SMK TELKOM MALANG
+<b>IDENTIAS </b>
+<br> Nama : Elvira Ayu Sosilia 
+<br> Kelas : XI RPL 3 
+<br> No Abs : 09 
+<br> NIS : 4701/1420.070 
+<br> NAMA SEKOLAH : SMK TELKOM MALANG 
 
 <br> 1 ![0](https://cloud.githubusercontent.com/assets/22167465/22849471/61fba6d4-f030-11e6-9a7c-5f08efedc1b1.PNG)
 <br> 2 ![1](https://cloud.githubusercontent.com/assets/22167465/22849470/61f8c27a-f030-11e6-90e1-d8ae06c33f4b.PNG)
