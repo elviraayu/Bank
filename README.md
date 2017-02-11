@@ -7,10 +7,10 @@
 <br> NIS : 4701/1420.070 
 <br> NAMA SEKOLAH : SMK TELKOM MALANG 
 
-<br> 1 ![0](https://cloud.githubusercontent.com/assets/22167465/22849471/61fba6d4-f030-11e6-9a7c-5f08efedc1b1.PNG)
-<br> 2 ![1](https://cloud.githubusercontent.com/assets/22167465/22849470/61f8c27a-f030-11e6-90e1-d8ae06c33f4b.PNG)
-<br> 3 ![2](https://cloud.githubusercontent.com/assets/22167465/22849472/61ff9c1c-f030-11e6-9448-37b54b00e13e.PNG)
-<br> 4 ![3](https://cloud.githubusercontent.com/assets/22167465/22849473/6204f130-f030-11e6-8abd-e85aca689ca3.PNG)
-<br> 5 ![4](https://cloud.githubusercontent.com/assets/22167465/22849474/620a69e4-f030-11e6-91cc-041b76b57d1c.PNG)
-<br> 6 ![5](https://cloud.githubusercontent.com/assets/22167465/22849475/620ec0c0-f030-11e6-8a24-b4ba188e4a78.PNG)
-<br>7 ![6](https://cloud.githubusercontent.com/assets/22167465/22849476/622b41e6-f030-11e6-9c09-c9e9013d2005.PNG)
+<br> 1 ![0](https://cloud.githubusercontent.com/assets/22167465/22849669/de1b8cf6-f031-11e6-85e2-df0997bf816a.PNG)
+<br> 2 ![1](https://cloud.githubusercontent.com/assets/22167465/22849670/de219538-f031-11e6-9da8-a1c818ef3d9c.PNG)
+<br> 3 ![2](https://cloud.githubusercontent.com/assets/22167465/22849671/de2625b2-f031-11e6-9bef-f746e165fa9a.PNG)
+<br> 4 ![3](https://cloud.githubusercontent.com/assets/22167465/22849672/de2922a8-f031-11e6-85f5-0c94783377be.PNG)
+<br> 5 ![4](https://cloud.githubusercontent.com/assets/22167465/22849673/de2eb420-f031-11e6-9222-563b46be995d.PNG)
+<br> 6 ![5](https://cloud.githubusercontent.com/assets/22167465/22849674/de3498a4-f031-11e6-8f45-7461129d9b7f.PNG)
+<br> 7 ![6](https://cloud.githubusercontent.com/assets/22167465/22849675/de526550-f031-11e6-97a8-9fb4d6c6e6b2.PNG)
